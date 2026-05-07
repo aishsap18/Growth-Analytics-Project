@@ -5,6 +5,8 @@ This project delivers an end-to-end analytics solution to evaluate **revenue per
 
 The solution uses **Snowflake** for data modeling and transformation, and **Power BI** for building an executive-ready dashboard with actionable insights.
 
+![Overview](docs/Overview.png)
+
 ---
 
 ## 🎯 Business Problem
@@ -23,8 +25,6 @@ This project addresses these gaps by creating a **structured data model and inte
 - **Transformation:** SQL (modular)  
 - **Visualization:** Power BI  
 - **Modeling:** Star Schema (Dimensions & Facts)  
-
-📌 *Refer to `/docs/Overview.png` for overview diagram*
 
 ---
 
@@ -47,23 +47,23 @@ The data model follows a **star schema design** for scalability and performance.
 - Conformed dimensions across facts  
 - Date keys used for time-based analysis  
 
-📌 *Refer to `/docs/Data Model.png` for schema diagram*
+![Data Model](docs/Data Model.png)
 
 ---
 
 ## ⚙️ Data Pipeline
 
-The pipeline is built using modular SQL scripts:
-00_create_db_roles_warehouses.sql
-01_create_staging_tables.sql
-02_create_file_formats_and_stages.sql
-03_load_data_into_staging.sql
-04_data_quality_checks.sql
-05_create_base_model_tables.sql
-06_load_base_model_sproc.sql
-07_base_model_qa_tests.sql
-08_analytical_views.sql
-09_analytical_views_qa.sql
+### SQL scripts:
+- 00_create_db_roles_warehouses.sql
+- 01_create_staging_tables.sql
+- 02_create_file_formats_and_stages.sql
+- 03_load_data_into_staging.sql
+- 04_data_quality_checks.sql
+- 05_create_base_model_tables.sql
+- 06_load_base_model_sproc.sql
+- 07_base_model_qa_tests.sql
+- 08_analytical_views.sql
+- 09_analytical_views_qa.sql
 
 
 ### Flow:
@@ -101,6 +101,8 @@ The Power BI dashboard is designed for **executive consumption** with clear stor
 - Top customers by revenue  
 - Key business insights  
 
+![Business Performance Overview](images/business_performance_overview.png)
+
 ---
 
 ### 🔹 2. Pipeline & Conversion
@@ -109,12 +111,16 @@ The Power BI dashboard is designed for **executive consumption** with clear stor
 - Conversion trend (close date)  
 - Stage-level bottleneck identification  
 
+![Pipeline & Conversion](images/pipeline_and_conversion.png)
+
 ---
 
 ### 🔹 3. Customer & Product Insights
 - Top customers and concentration risk  
 - Product/category contribution  
 - Regional performance analysis  
+
+![Customer & Product Insights](images/customer_and_product_insights.png)
 
 ---
 
@@ -123,46 +129,7 @@ The Power BI dashboard is designed for **executive consumption** with clear stor
 - Retention indicators  
 - Customer value insights  
 
----
-
-## 💡 Key Insights
-
-- Revenue declined YoY, indicating performance pressure  
-- Pipeline shrinking → potential future revenue risk  
-- Conversion inefficiencies observed at key funnel stages  
-- Revenue distribution is not overly concentrated (low dependency risk)  
-- Customer retention shows room for improvement  
-
----
-
-## 📂 Repository Structure
-
-growth-analytics-project/
-│
-├── data/
-│
-├── sql/
-│ ├── setup/
-│ ├── staging/
-│ ├── base/
-│ ├── analytics/
-│
-├── dashboards/
-│ └── Growth Analytics Dashboard.pbix
-│
-├── images/
-│ ├── business_performance_overview.png
-│ ├── pipeline_and_conversion.png
-│ ├── customer_and_product_insights.png
-│ ├── customer_behavior.png
-│
-├── docs/
-│ ├── Data Model.png
-│ ├── Data Mapping.xlsx
-│ ├── Overview.png
-│ 
-└── README.md
-
+![Customer Behavior](images/customer_behavior.png)
 
 ---
 
