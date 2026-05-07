@@ -47,7 +47,7 @@ The data model follows a **star schema design** for scalability and performance.
 - Conformed dimensions across facts  
 - Date keys used for time-based analysis  
 
-![Data Model](docs/Data Model.png)
+![Data Model](docs/DataModel.png)
 
 ---
 
@@ -73,7 +73,7 @@ The data model follows a **star schema design** for scalability and performance.
 4. Business-ready views → **ANALYTICS layer**  
 5. Connected to Power BI  
 
-📌 *Refer to `/docs/Data Mapping.xlsx` for data mapping document*
+📌 *Refer to `/docs/DataMapping.xlsx` for data mapping document*
 
 ---
 
