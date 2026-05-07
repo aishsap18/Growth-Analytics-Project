@@ -1,0 +1,501 @@
+customer_id,master_customer_name,parent_company,region_standardized
+1,Company 1,Parent_0,Europe
+2,Company 2,Parent_0,Europe
+3,Company 3,Parent_0,APAC
+4,Company 4,Parent_0,North America
+5,Company 5,Parent_0,North America
+6,Company 6,Parent_0,North America
+7,Company 7,Parent_0,Europe
+8,Company 8,Parent_0,North America
+9,Company 9,Parent_0,APAC
+10,Company 10,Parent_1,Europe
+11,Company 11,Parent_1,APAC
+12,Company 12,Parent_1,APAC
+13,Company 13,Parent_1,Europe
+14,Company 14,Parent_1,APAC
+15,Company 15,Parent_1,North America
+16,Company 16,Parent_1,APAC
+17,Company 17,Parent_1,North America
+18,Company 18,Parent_1,APAC
+19,Company 19,Parent_1,North America
+20,Company 20,Parent_2,North America
+21,Company 21,Parent_2,Europe
+22,Company 22,Parent_2,Europe
+23,Company 23,Parent_2,APAC
+24,Company 24,Parent_2,North America
+25,Company 25,Parent_2,North America
+26,Company 26,Parent_2,North America
+27,Company 27,Parent_2,APAC
+28,Company 28,Parent_2,APAC
+29,Company 29,Parent_2,North America
+30,Company 30,Parent_3,Europe
+31,Company 31,Parent_3,APAC
+32,Company 32,Parent_3,North America
+33,Company 33,Parent_3,Europe
+34,Company 34,Parent_3,Europe
+35,Company 35,Parent_3,Europe
+36,Company 36,Parent_3,Europe
+37,Company 37,Parent_3,Europe
+38,Company 38,Parent_3,Europe
+39,Company 39,Parent_3,APAC
+40,Company 40,Parent_4,Europe
+41,Company 41,Parent_4,APAC
+42,Company 42,Parent_4,Europe
+43,Company 43,Parent_4,Europe
+44,Company 44,Parent_4,Europe
+45,Company 45,Parent_4,APAC
+46,Company 46,Parent_4,North America
+47,Company 47,Parent_4,Europe
+48,Company 48,Parent_4,North America
+49,Company 49,Parent_4,North America
+50,Company 50,Parent_5,Europe
+51,Company 51,Parent_5,Europe
+52,Company 52,Parent_5,Europe
+53,Company 53,Parent_5,APAC
+54,Company 54,Parent_5,APAC
+55,Company 55,Parent_5,APAC
+56,Company 56,Parent_5,APAC
+57,Company 57,Parent_5,Europe
+58,Company 58,Parent_5,North America
+59,Company 59,Parent_5,Europe
+60,Company 60,Parent_6,North America
+61,Company 61,Parent_6,APAC
+62,Company 62,Parent_6,North America
+63,Company 63,Parent_6,APAC
+64,Company 64,Parent_6,North America
+65,Company 65,Parent_6,Europe
+66,Company 66,Parent_6,APAC
+67,Company 67,Parent_6,Europe
+68,Company 68,Parent_6,Europe
+69,Company 69,Parent_6,APAC
+70,Company 70,Parent_7,APAC
+71,Company 71,Parent_7,APAC
+72,Company 72,Parent_7,APAC
+73,Company 73,Parent_7,North America
+74,Company 74,Parent_7,Europe
+75,Company 75,Parent_7,Europe
+76,Company 76,Parent_7,APAC
+77,Company 77,Parent_7,North America
+78,Company 78,Parent_7,APAC
+79,Company 79,Parent_7,North America
+80,Company 80,Parent_8,Europe
+81,Company 81,Parent_8,APAC
+82,Company 82,Parent_8,North America
+83,Company 83,Parent_8,Europe
+84,Company 84,Parent_8,APAC
+85,Company 85,Parent_8,APAC
+86,Company 86,Parent_8,North America
+87,Company 87,Parent_8,North America
+88,Company 88,Parent_8,APAC
+89,Company 89,Parent_8,APAC
+90,Company 90,Parent_9,APAC
+91,Company 91,Parent_9,Europe
+92,Company 92,Parent_9,Europe
+93,Company 93,Parent_9,APAC
+94,Company 94,Parent_9,APAC
+95,Company 95,Parent_9,APAC
+96,Company 96,Parent_9,APAC
+97,Company 97,Parent_9,Europe
+98,Company 98,Parent_9,North America
+99,Company 99,Parent_9,Europe
+100,Company 100,Parent_10,Europe
+101,Company 101,Parent_10,Europe
+102,Company 102,Parent_10,APAC
+103,Company 103,Parent_10,Europe
+104,Company 104,Parent_10,Europe
+105,Company 105,Parent_10,APAC
+106,Company 106,Parent_10,North America
+107,Company 107,Parent_10,Europe
+108,Company 108,Parent_10,APAC
+109,Company 109,Parent_10,Europe
+110,Company 110,Parent_11,Europe
+111,Company 111,Parent_11,Europe
+112,Company 112,Parent_11,North America
+113,Company 113,Parent_11,Europe
+114,Company 114,Parent_11,North America
+115,Company 115,Parent_11,Europe
+116,Company 116,Parent_11,APAC
+117,Company 117,Parent_11,APAC
+118,Company 118,Parent_11,APAC
+119,Company 119,Parent_11,Europe
+120,Company 120,Parent_12,APAC
+121,Company 121,Parent_12,North America
+122,Company 122,Parent_12,Europe
+123,Company 123,Parent_12,APAC
+124,Company 124,Parent_12,North America
+125,Company 125,Parent_12,APAC
+126,Company 126,Parent_12,Europe
+127,Company 127,Parent_12,North America
+128,Company 128,Parent_12,Europe
+129,Company 129,Parent_12,APAC
+130,Company 130,Parent_13,Europe
+131,Company 131,Parent_13,North America
+132,Company 132,Parent_13,North America
+133,Company 133,Parent_13,Europe
+134,Company 134,Parent_13,APAC
+135,Company 135,Parent_13,APAC
+136,Company 136,Parent_13,Europe
+137,Company 137,Parent_13,APAC
+138,Company 138,Parent_13,APAC
+139,Company 139,Parent_13,North America
+140,Company 140,Parent_14,North America
+141,Company 141,Parent_14,Europe
+142,Company 142,Parent_14,APAC
+143,Company 143,Parent_14,APAC
+144,Company 144,Parent_14,APAC
+145,Company 145,Parent_14,APAC
+146,Company 146,Parent_14,APAC
+147,Company 147,Parent_14,Europe
+148,Company 148,Parent_14,Europe
+149,Company 149,Parent_14,North America
+150,Company 150,Parent_15,APAC
+151,Company 151,Parent_15,Europe
+152,Company 152,Parent_15,APAC
+153,Company 153,Parent_15,Europe
+154,Company 154,Parent_15,APAC
+155,Company 155,Parent_15,APAC
+156,Company 156,Parent_15,North America
+157,Company 157,Parent_15,North America
+158,Company 158,Parent_15,North America
+159,Company 159,Parent_15,Europe
+160,Company 160,Parent_16,Europe
+161,Company 161,Parent_16,North America
+162,Company 162,Parent_16,Europe
+163,Company 163,Parent_16,Europe
+164,Company 164,Parent_16,APAC
+165,Company 165,Parent_16,APAC
+166,Company 166,Parent_16,APAC
+167,Company 167,Parent_16,Europe
+168,Company 168,Parent_16,North America
+169,Company 169,Parent_16,North America
+170,Company 170,Parent_17,Europe
+171,Company 171,Parent_17,North America
+172,Company 172,Parent_17,Europe
+173,Company 173,Parent_17,North America
+174,Company 174,Parent_17,Europe
+175,Company 175,Parent_17,APAC
+176,Company 176,Parent_17,APAC
+177,Company 177,Parent_17,Europe
+178,Company 178,Parent_17,Europe
+179,Company 179,Parent_17,Europe
+180,Company 180,Parent_18,North America
+181,Company 181,Parent_18,APAC
+182,Company 182,Parent_18,APAC
+183,Company 183,Parent_18,North America
+184,Company 184,Parent_18,APAC
+185,Company 185,Parent_18,Europe
+186,Company 186,Parent_18,Europe
+187,Company 187,Parent_18,North America
+188,Company 188,Parent_18,North America
+189,Company 189,Parent_18,Europe
+190,Company 190,Parent_19,APAC
+191,Company 191,Parent_19,North America
+192,Company 192,Parent_19,North America
+193,Company 193,Parent_19,Europe
+194,Company 194,Parent_19,APAC
+195,Company 195,Parent_19,Europe
+196,Company 196,Parent_19,APAC
+197,Company 197,Parent_19,North America
+198,Company 198,Parent_19,North America
+199,Company 199,Parent_19,APAC
+200,Company 200,Parent_20,North America
+201,Company 201,Parent_20,APAC
+202,Company 202,Parent_20,North America
+203,Company 203,Parent_20,Europe
+204,Company 204,Parent_20,APAC
+205,Company 205,Parent_20,Europe
+206,Company 206,Parent_20,APAC
+207,Company 207,Parent_20,Europe
+208,Company 208,Parent_20,North America
+209,Company 209,Parent_20,APAC
+210,Company 210,Parent_21,Europe
+211,Company 211,Parent_21,Europe
+212,Company 212,Parent_21,North America
+213,Company 213,Parent_21,Europe
+214,Company 214,Parent_21,North America
+215,Company 215,Parent_21,North America
+216,Company 216,Parent_21,North America
+217,Company 217,Parent_21,Europe
+218,Company 218,Parent_21,Europe
+219,Company 219,Parent_21,APAC
+220,Company 220,Parent_22,North America
+221,Company 221,Parent_22,North America
+222,Company 222,Parent_22,Europe
+223,Company 223,Parent_22,Europe
+224,Company 224,Parent_22,Europe
+225,Company 225,Parent_22,North America
+226,Company 226,Parent_22,North America
+227,Company 227,Parent_22,North America
+228,Company 228,Parent_22,Europe
+229,Company 229,Parent_22,APAC
+230,Company 230,Parent_23,Europe
+231,Company 231,Parent_23,North America
+232,Company 232,Parent_23,Europe
+233,Company 233,Parent_23,Europe
+234,Company 234,Parent_23,APAC
+235,Company 235,Parent_23,North America
+236,Company 236,Parent_23,APAC
+237,Company 237,Parent_23,APAC
+238,Company 238,Parent_23,North America
+239,Company 239,Parent_23,North America
+240,Company 240,Parent_24,North America
+241,Company 241,Parent_24,APAC
+242,Company 242,Parent_24,North America
+243,Company 243,Parent_24,APAC
+244,Company 244,Parent_24,APAC
+245,Company 245,Parent_24,North America
+246,Company 246,Parent_24,North America
+247,Company 247,Parent_24,North America
+248,Company 248,Parent_24,Europe
+249,Company 249,Parent_24,Europe
+250,Company 250,Parent_25,North America
+251,Company 251,Parent_25,North America
+252,Company 252,Parent_25,APAC
+253,Company 253,Parent_25,North America
+254,Company 254,Parent_25,Europe
+255,Company 255,Parent_25,APAC
+256,Company 256,Parent_25,North America
+257,Company 257,Parent_25,Europe
+258,Company 258,Parent_25,North America
+259,Company 259,Parent_25,North America
+260,Company 260,Parent_26,North America
+261,Company 261,Parent_26,Europe
+262,Company 262,Parent_26,Europe
+263,Company 263,Parent_26,North America
+264,Company 264,Parent_26,Europe
+265,Company 265,Parent_26,APAC
+266,Company 266,Parent_26,North America
+267,Company 267,Parent_26,Europe
+268,Company 268,Parent_26,North America
+269,Company 269,Parent_26,Europe
+270,Company 270,Parent_27,APAC
+271,Company 271,Parent_27,Europe
+272,Company 272,Parent_27,Europe
+273,Company 273,Parent_27,APAC
+274,Company 274,Parent_27,Europe
+275,Company 275,Parent_27,North America
+276,Company 276,Parent_27,North America
+277,Company 277,Parent_27,APAC
+278,Company 278,Parent_27,APAC
+279,Company 279,Parent_27,Europe
+280,Company 280,Parent_28,Europe
+281,Company 281,Parent_28,North America
+282,Company 282,Parent_28,APAC
+283,Company 283,Parent_28,North America
+284,Company 284,Parent_28,APAC
+285,Company 285,Parent_28,North America
+286,Company 286,Parent_28,APAC
+287,Company 287,Parent_28,Europe
+288,Company 288,Parent_28,APAC
+289,Company 289,Parent_28,Europe
+290,Company 290,Parent_29,APAC
+291,Company 291,Parent_29,APAC
+292,Company 292,Parent_29,Europe
+293,Company 293,Parent_29,Europe
+294,Company 294,Parent_29,North America
+295,Company 295,Parent_29,APAC
+296,Company 296,Parent_29,North America
+297,Company 297,Parent_29,Europe
+298,Company 298,Parent_29,APAC
+299,Company 299,Parent_29,North America
+300,Company 300,Parent_30,North America
+301,Company 301,Parent_30,North America
+302,Company 302,Parent_30,APAC
+303,Company 303,Parent_30,APAC
+304,Company 304,Parent_30,North America
+305,Company 305,Parent_30,APAC
+306,Company 306,Parent_30,APAC
+307,Company 307,Parent_30,APAC
+308,Company 308,Parent_30,Europe
+309,Company 309,Parent_30,North America
+310,Company 310,Parent_31,APAC
+311,Company 311,Parent_31,North America
+312,Company 312,Parent_31,North America
+313,Company 313,Parent_31,North America
+314,Company 314,Parent_31,Europe
+315,Company 315,Parent_31,North America
+316,Company 316,Parent_31,North America
+317,Company 317,Parent_31,North America
+318,Company 318,Parent_31,APAC
+319,Company 319,Parent_31,APAC
+320,Company 320,Parent_32,Europe
+321,Company 321,Parent_32,North America
+322,Company 322,Parent_32,North America
+323,Company 323,Parent_32,North America
+324,Company 324,Parent_32,North America
+325,Company 325,Parent_32,North America
+326,Company 326,Parent_32,Europe
+327,Company 327,Parent_32,North America
+328,Company 328,Parent_32,Europe
+329,Company 329,Parent_32,North America
+330,Company 330,Parent_33,APAC
+331,Company 331,Parent_33,North America
+332,Company 332,Parent_33,Europe
+333,Company 333,Parent_33,Europe
+334,Company 334,Parent_33,North America
+335,Company 335,Parent_33,APAC
+336,Company 336,Parent_33,Europe
+337,Company 337,Parent_33,Europe
+338,Company 338,Parent_33,North America
+339,Company 339,Parent_33,North America
+340,Company 340,Parent_34,APAC
+341,Company 341,Parent_34,Europe
+342,Company 342,Parent_34,North America
+343,Company 343,Parent_34,APAC
+344,Company 344,Parent_34,Europe
+345,Company 345,Parent_34,APAC
+346,Company 346,Parent_34,North America
+347,Company 347,Parent_34,North America
+348,Company 348,Parent_34,APAC
+349,Company 349,Parent_34,Europe
+350,Company 350,Parent_35,APAC
+351,Company 351,Parent_35,North America
+352,Company 352,Parent_35,Europe
+353,Company 353,Parent_35,APAC
+354,Company 354,Parent_35,Europe
+355,Company 355,Parent_35,Europe
+356,Company 356,Parent_35,APAC
+357,Company 357,Parent_35,Europe
+358,Company 358,Parent_35,Europe
+359,Company 359,Parent_35,Europe
+360,Company 360,Parent_36,Europe
+361,Company 361,Parent_36,North America
+362,Company 362,Parent_36,North America
+363,Company 363,Parent_36,APAC
+364,Company 364,Parent_36,North America
+365,Company 365,Parent_36,Europe
+366,Company 366,Parent_36,Europe
+367,Company 367,Parent_36,Europe
+368,Company 368,Parent_36,Europe
+369,Company 369,Parent_36,Europe
+370,Company 370,Parent_37,Europe
+371,Company 371,Parent_37,North America
+372,Company 372,Parent_37,APAC
+373,Company 373,Parent_37,Europe
+374,Company 374,Parent_37,APAC
+375,Company 375,Parent_37,North America
+376,Company 376,Parent_37,Europe
+377,Company 377,Parent_37,APAC
+378,Company 378,Parent_37,North America
+379,Company 379,Parent_37,North America
+380,Company 380,Parent_38,North America
+381,Company 381,Parent_38,North America
+382,Company 382,Parent_38,North America
+383,Company 383,Parent_38,Europe
+384,Company 384,Parent_38,North America
+385,Company 385,Parent_38,Europe
+386,Company 386,Parent_38,APAC
+387,Company 387,Parent_38,Europe
+388,Company 388,Parent_38,APAC
+389,Company 389,Parent_38,Europe
+390,Company 390,Parent_39,North America
+391,Company 391,Parent_39,North America
+392,Company 392,Parent_39,North America
+393,Company 393,Parent_39,APAC
+394,Company 394,Parent_39,APAC
+395,Company 395,Parent_39,APAC
+396,Company 396,Parent_39,North America
+397,Company 397,Parent_39,North America
+398,Company 398,Parent_39,Europe
+399,Company 399,Parent_39,North America
+400,Company 400,Parent_40,North America
+401,Company 401,Parent_40,APAC
+402,Company 402,Parent_40,APAC
+403,Company 403,Parent_40,North America
+404,Company 404,Parent_40,APAC
+405,Company 405,Parent_40,North America
+406,Company 406,Parent_40,APAC
+407,Company 407,Parent_40,Europe
+408,Company 408,Parent_40,North America
+409,Company 409,Parent_40,APAC
+410,Company 410,Parent_41,Europe
+411,Company 411,Parent_41,North America
+412,Company 412,Parent_41,North America
+413,Company 413,Parent_41,North America
+414,Company 414,Parent_41,Europe
+415,Company 415,Parent_41,Europe
+416,Company 416,Parent_41,APAC
+417,Company 417,Parent_41,Europe
+418,Company 418,Parent_41,Europe
+419,Company 419,Parent_41,APAC
+420,Company 420,Parent_42,North America
+421,Company 421,Parent_42,North America
+422,Company 422,Parent_42,APAC
+423,Company 423,Parent_42,North America
+424,Company 424,Parent_42,APAC
+425,Company 425,Parent_42,APAC
+426,Company 426,Parent_42,North America
+427,Company 427,Parent_42,Europe
+428,Company 428,Parent_42,Europe
+429,Company 429,Parent_42,Europe
+430,Company 430,Parent_43,North America
+431,Company 431,Parent_43,Europe
+432,Company 432,Parent_43,North America
+433,Company 433,Parent_43,North America
+434,Company 434,Parent_43,North America
+435,Company 435,Parent_43,Europe
+436,Company 436,Parent_43,APAC
+437,Company 437,Parent_43,APAC
+438,Company 438,Parent_43,North America
+439,Company 439,Parent_43,North America
+440,Company 440,Parent_44,APAC
+441,Company 441,Parent_44,North America
+442,Company 442,Parent_44,APAC
+443,Company 443,Parent_44,North America
+444,Company 444,Parent_44,APAC
+445,Company 445,Parent_44,North America
+446,Company 446,Parent_44,Europe
+447,Company 447,Parent_44,Europe
+448,Company 448,Parent_44,APAC
+449,Company 449,Parent_44,Europe
+450,Company 450,Parent_45,APAC
+451,Company 451,Parent_45,APAC
+452,Company 452,Parent_45,Europe
+453,Company 453,Parent_45,North America
+454,Company 454,Parent_45,Europe
+455,Company 455,Parent_45,APAC
+456,Company 456,Parent_45,North America
+457,Company 457,Parent_45,Europe
+458,Company 458,Parent_45,North America
+459,Company 459,Parent_45,APAC
+460,Company 460,Parent_46,Europe
+461,Company 461,Parent_46,North America
+462,Company 462,Parent_46,Europe
+463,Company 463,Parent_46,Europe
+464,Company 464,Parent_46,Europe
+465,Company 465,Parent_46,Europe
+466,Company 466,Parent_46,North America
+467,Company 467,Parent_46,North America
+468,Company 468,Parent_46,North America
+469,Company 469,Parent_46,Europe
+470,Company 470,Parent_47,APAC
+471,Company 471,Parent_47,Europe
+472,Company 472,Parent_47,North America
+473,Company 473,Parent_47,Europe
+474,Company 474,Parent_47,Europe
+475,Company 475,Parent_47,North America
+476,Company 476,Parent_47,North America
+477,Company 477,Parent_47,North America
+478,Company 478,Parent_47,APAC
+479,Company 479,Parent_47,APAC
+480,Company 480,Parent_48,Europe
+481,Company 481,Parent_48,APAC
+482,Company 482,Parent_48,North America
+483,Company 483,Parent_48,APAC
+484,Company 484,Parent_48,APAC
+485,Company 485,Parent_48,North America
+486,Company 486,Parent_48,Europe
+487,Company 487,Parent_48,APAC
+488,Company 488,Parent_48,APAC
+489,Company 489,Parent_48,APAC
+490,Company 490,Parent_49,North America
+491,Company 491,Parent_49,APAC
+492,Company 492,Parent_49,Europe
+493,Company 493,Parent_49,North America
+494,Company 494,Parent_49,North America
+495,Company 495,Parent_49,APAC
+496,Company 496,Parent_49,Europe
+497,Company 497,Parent_49,APAC
+498,Company 498,Parent_49,APAC
+499,Company 499,Parent_49,APAC
+500,Company 500,Parent_50,APAC

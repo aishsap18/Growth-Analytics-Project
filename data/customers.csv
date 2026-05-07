@@ -1,0 +1,521 @@
+customer_id,customer_name,region,industry,segment,created_date
+1,Company_1,north america,Healthcare,Mid-Market,2022-12-05
+2,Company_2,APAC,Technology,Enterprise,2023-09-30
+3,Company_3,,Manufacturing,Mid-Market,2023-10-19
+4,Company_4,north america,Retail,Mid-Market,2022-09-06
+5,Company_5,APAC,Retail,Enterprise,2021-02-22
+6,Company_6,,Healthcare,SMB,2020-06-23
+7,Company_7,Europe,Technology,SMB,2022-04-19
+8,Company_8,EUROPE,Technology,Enterprise,2022-12-13
+9,Company_9,APAC,Technology,Enterprise,2023-09-30
+10,Company_10,EUROPE,Manufacturing,SMB,2021-01-10
+11,Company_11,,Healthcare,SMB,2021-12-13
+12,Company_12,,Technology,Mid-Market,2020-07-15
+13,Company_13,,Healthcare,SMB,2023-10-03
+14,Company_14,EUROPE,Technology,Enterprise,2022-11-17
+15,Company_15,Europe,Manufacturing,SMB,2022-12-16
+16,Company_16,Europe,Retail,Enterprise,2020-03-09
+17,Company_17,North America,Technology,Enterprise,2023-11-27
+18,Company_18,APAC,Retail,SMB,2021-10-31
+19,Company_19,north america,Retail,SMB,2021-05-19
+20,company_20,APAC,Retail,SMB,2023-05-28
+21,Company_21,north america,Manufacturing,Enterprise,2022-01-31
+22,Company_22,EUROPE,Technology,SMB,2022-09-06
+23,Company_23,north america,Healthcare,Enterprise,2021-03-23
+24,Company_24,Europe,Technology,Enterprise,2022-03-03
+25,Company_25,,Retail,SMB,2023-11-24
+26,Company_26,,Manufacturing,SMB,2020-10-09
+27,Company_27,APAC,Retail,Enterprise,2020-06-11
+28,Company_28,North America,Technology,Mid-Market,2020-05-24
+29,Company_29,EUROPE,Technology,Enterprise,2020-08-24
+30,Company_30,,Technology,Mid-Market,2021-06-05
+31,Company_31,,Retail,SMB,2023-10-29
+32,Company_32,APAC,Technology,Mid-Market,2020-03-04
+33,Company_33,EUROPE,Retail,Mid-Market,2023-07-13
+34,Company_34,EUROPE,Technology,Mid-Market,2022-12-22
+35,Company_35,North America,Retail,Mid-Market,2021-04-08
+36,Company_36,North America,Retail,SMB,2021-03-02
+37,Company_37,APAC,Healthcare,Enterprise,2021-04-23
+38,Company_38,APAC,Technology,Enterprise,2021-01-15
+39,Company_39,North America,Retail,Mid-Market,2020-03-13
+40,company_40,,Healthcare,Mid-Market,2022-01-19
+41,Company_41,North America,Retail,Mid-Market,2020-03-01
+42,Company_42,North America,Retail,SMB,2021-09-25
+43,Company_43,EUROPE,Retail,Mid-Market,2020-07-09
+44,Company_44,Europe,Technology,Mid-Market,2021-03-02
+45,Company_45,north america,Retail,Mid-Market,2020-08-01
+46,Company_46,APAC,Manufacturing,SMB,2021-02-18
+47,Company_47,,Retail,Mid-Market,2023-06-01
+48,Company_48,APAC,Retail,Enterprise,2021-09-30
+49,Company_49,north america,Technology,Mid-Market,2023-11-28
+50,Company_50,Europe,Manufacturing,Enterprise,2023-06-12
+51,Company_51,APAC,Technology,Enterprise,2022-01-05
+52,Company_52,EUROPE,Technology,Mid-Market,2020-07-31
+53,Company_53,EUROPE,Technology,Enterprise,2023-08-18
+54,Company_54,Europe,Manufacturing,Mid-Market,2022-12-30
+55,Company_55,EUROPE,Retail,SMB,2020-05-22
+56,Company_56,,Technology,Enterprise,2021-09-28
+57,Company_57,Europe,Technology,Mid-Market,2020-01-06
+58,Company_58,EUROPE,Manufacturing,Mid-Market,2022-12-07
+59,Company_59,APAC,Healthcare,Enterprise,2024-02-01
+60,company_60,North America,Retail,Enterprise,2023-01-04
+61,Company_61,EUROPE,Healthcare,Mid-Market,2023-11-24
+62,Company_62,APAC,Healthcare,Mid-Market,2021-11-30
+63,Company_63,,Manufacturing,Enterprise,2024-02-08
+64,Company_64,APAC,Retail,Mid-Market,2023-04-25
+65,Company_65,North America,Technology,SMB,2022-12-26
+66,Company_66,APAC,Retail,SMB,2023-01-18
+67,Company_67,north america,Retail,Mid-Market,2022-05-21
+68,Company_68,Europe,Technology,Enterprise,2023-12-11
+69,Company_69,North America,Manufacturing,Mid-Market,2022-11-14
+70,Company_70,EUROPE,Healthcare,Mid-Market,2023-07-15
+71,Company_71,EUROPE,Manufacturing,SMB,2023-12-15
+72,Company_72,north america,Healthcare,Enterprise,2020-09-14
+73,Company_73,APAC,Manufacturing,Mid-Market,2020-05-08
+74,Company_74,north america,Manufacturing,SMB,2023-04-17
+75,Company_75,EUROPE,Manufacturing,Mid-Market,2023-05-05
+76,Company_76,EUROPE,Manufacturing,Mid-Market,2021-07-17
+77,Company_77,Europe,Manufacturing,Mid-Market,2021-08-04
+78,Company_78,north america,Retail,SMB,2021-12-30
+79,Company_79,EUROPE,Retail,SMB,2023-05-13
+80,company_80,North America,Manufacturing,Mid-Market,2021-05-15
+81,Company_81,EUROPE,Manufacturing,Enterprise,2022-07-30
+82,Company_82,Europe,Retail,SMB,2020-10-02
+83,Company_83,EUROPE,Retail,SMB,2023-05-31
+84,Company_84,APAC,Retail,Mid-Market,2023-05-31
+85,Company_85,,Retail,Mid-Market,2022-05-08
+86,Company_86,North America,Healthcare,Enterprise,2021-01-07
+87,Company_87,north america,Retail,SMB,2021-03-25
+88,Company_88,North America,Manufacturing,Mid-Market,2022-06-12
+89,Company_89,north america,Healthcare,Enterprise,2023-09-26
+90,Company_90,APAC,Healthcare,Mid-Market,2021-07-15
+91,Company_91,EUROPE,Healthcare,SMB,2023-01-07
+92,Company_92,,Manufacturing,SMB,2020-05-03
+93,Company_93,APAC,Healthcare,SMB,2021-03-04
+94,Company_94,North America,Manufacturing,Enterprise,2020-07-29
+95,Company_95,APAC,Manufacturing,Mid-Market,2020-06-06
+96,Company_96,EUROPE,Manufacturing,Enterprise,2022-09-20
+97,Company_97,APAC,Retail,SMB,2020-04-29
+98,Company_98,Europe,Technology,Mid-Market,2023-09-08
+99,Company_99,North America,Retail,Mid-Market,2022-10-05
+100,company_100,APAC,Technology,Enterprise,2023-12-21
+101,Company_101,APAC,Retail,Enterprise,2021-04-28
+102,Company_102,EUROPE,Manufacturing,SMB,2020-05-26
+103,Company_103,Europe,Technology,Enterprise,2021-07-12
+104,Company_104,Europe,Technology,SMB,2021-12-02
+105,Company_105,North America,Retail,Mid-Market,2022-05-16
+106,Company_106,,Healthcare,Enterprise,2023-06-18
+107,Company_107,North America,Technology,Enterprise,2023-09-06
+108,Company_108,APAC,Technology,SMB,2023-07-31
+109,Company_109,APAC,Technology,SMB,2021-09-15
+110,Company_110,North America,Manufacturing,SMB,2022-11-16
+111,Company_111,Europe,Healthcare,Enterprise,2023-10-01
+112,Company_112,north america,Retail,Mid-Market,2021-09-28
+113,Company_113,north america,Technology,SMB,2022-03-31
+114,Company_114,,Manufacturing,Enterprise,2022-12-26
+115,Company_115,,Healthcare,Mid-Market,2023-03-06
+116,Company_116,north america,Manufacturing,Enterprise,2022-06-29
+117,Company_117,north america,Retail,SMB,2020-01-12
+118,Company_118,north america,Technology,SMB,2023-12-03
+119,Company_119,APAC,Retail,Enterprise,2021-07-08
+120,company_120,North America,Manufacturing,Mid-Market,2020-12-04
+121,Company_121,Europe,Retail,SMB,2022-09-09
+122,Company_122,North America,Manufacturing,SMB,2021-10-03
+123,Company_123,north america,Retail,Enterprise,2020-04-10
+124,Company_124,North America,Healthcare,SMB,2023-06-30
+125,Company_125,APAC,Technology,Enterprise,2021-11-29
+126,Company_126,Europe,Manufacturing,SMB,2020-08-11
+127,Company_127,,Retail,SMB,2022-10-23
+128,Company_128,APAC,Retail,Mid-Market,2023-10-20
+129,Company_129,,Technology,SMB,2020-10-01
+130,Company_130,Europe,Healthcare,SMB,2022-05-23
+131,Company_131,EUROPE,Retail,SMB,2022-01-17
+132,Company_132,North America,Retail,Enterprise,2021-01-31
+133,Company_133,north america,Technology,SMB,2020-08-29
+134,Company_134,north america,Retail,Enterprise,2024-01-18
+135,Company_135,,Retail,Enterprise,2020-07-21
+136,Company_136,,Healthcare,SMB,2020-03-15
+137,Company_137,APAC,Technology,SMB,2021-09-16
+138,Company_138,EUROPE,Manufacturing,Mid-Market,2021-04-03
+139,Company_139,Europe,Healthcare,SMB,2023-04-15
+140,company_140,north america,Healthcare,Enterprise,2022-03-20
+141,Company_141,APAC,Healthcare,Mid-Market,2023-04-08
+142,Company_142,Europe,Manufacturing,SMB,2024-01-15
+143,Company_143,north america,Manufacturing,Mid-Market,2023-08-22
+144,Company_144,APAC,Manufacturing,SMB,2022-03-25
+145,Company_145,EUROPE,Healthcare,SMB,2024-01-27
+146,Company_146,,Technology,Enterprise,2021-06-10
+147,Company_147,,Manufacturing,SMB,2021-10-29
+148,Company_148,north america,Manufacturing,Enterprise,2022-12-24
+149,Company_149,APAC,Manufacturing,Mid-Market,2021-11-23
+150,Company_150,North America,Manufacturing,Enterprise,2023-12-09
+151,Company_151,,Healthcare,Enterprise,2023-01-31
+152,Company_152,north america,Manufacturing,Mid-Market,2020-05-25
+153,Company_153,APAC,Technology,Enterprise,2023-05-01
+154,Company_154,APAC,Healthcare,SMB,2021-06-30
+155,Company_155,,Retail,Mid-Market,2021-10-31
+156,Company_156,North America,Manufacturing,SMB,2023-04-04
+157,Company_157,north america,Retail,SMB,2021-08-13
+158,Company_158,EUROPE,Retail,SMB,2021-09-04
+159,Company_159,north america,Healthcare,Mid-Market,2020-12-11
+160,company_160,EUROPE,Technology,Enterprise,2020-09-05
+161,Company_161,North America,Manufacturing,Mid-Market,2021-05-26
+162,Company_162,Europe,Retail,Mid-Market,2020-07-02
+163,Company_163,Europe,Healthcare,Enterprise,2023-05-29
+164,Company_164,North America,Healthcare,Enterprise,2021-03-11
+165,Company_165,north america,Healthcare,SMB,2020-03-09
+166,Company_166,North America,Healthcare,Mid-Market,2023-07-28
+167,Company_167,Europe,Manufacturing,SMB,2023-03-17
+168,Company_168,EUROPE,Technology,Mid-Market,2023-01-31
+169,Company_169,Europe,Technology,Mid-Market,2023-03-14
+170,Company_170,north america,Retail,Enterprise,2021-05-30
+171,Company_171,EUROPE,Retail,Mid-Market,2021-01-17
+172,Company_172,,Retail,Enterprise,2022-09-18
+173,Company_173,north america,Technology,SMB,2020-05-01
+174,Company_174,north america,Manufacturing,SMB,2020-01-13
+175,Company_175,,Healthcare,Enterprise,2020-09-08
+176,Company_176,North America,Technology,Enterprise,2022-06-06
+177,Company_177,APAC,Retail,Mid-Market,2022-07-04
+178,Company_178,EUROPE,Healthcare,SMB,2020-04-28
+179,Company_179,,Healthcare,SMB,2021-01-18
+180,company_180,North America,Retail,Enterprise,2020-04-02
+181,Company_181,,Retail,SMB,2022-02-04
+182,Company_182,north america,Technology,SMB,2020-04-03
+183,Company_183,North America,Technology,SMB,2023-12-19
+184,Company_184,EUROPE,Manufacturing,Enterprise,2020-11-18
+185,Company_185,APAC,Healthcare,Enterprise,2020-08-30
+186,Company_186,North America,Healthcare,Mid-Market,2020-03-02
+187,Company_187,Europe,Healthcare,SMB,2023-08-19
+188,Company_188,,Technology,Mid-Market,2023-05-31
+189,Company_189,,Retail,SMB,2023-12-03
+190,Company_190,EUROPE,Healthcare,Enterprise,2020-07-25
+191,Company_191,,Technology,Enterprise,2020-06-16
+192,Company_192,Europe,Technology,Enterprise,2023-05-22
+193,Company_193,north america,Retail,Mid-Market,2023-01-28
+194,Company_194,north america,Healthcare,SMB,2023-02-10
+195,Company_195,EUROPE,Manufacturing,Mid-Market,2022-04-12
+196,Company_196,Europe,Manufacturing,Enterprise,2022-03-17
+197,Company_197,APAC,Manufacturing,Enterprise,2022-11-09
+198,Company_198,North America,Retail,Mid-Market,2021-09-24
+199,Company_199,North America,Technology,Mid-Market,2022-07-01
+200,company_200,Europe,Manufacturing,Enterprise,2023-03-06
+201,Company_201,APAC,Technology,Mid-Market,2020-09-20
+202,Company_202,EUROPE,Manufacturing,SMB,2021-11-08
+203,Company_203,Europe,Healthcare,Mid-Market,2021-07-28
+204,Company_204,north america,Manufacturing,SMB,2021-12-01
+205,Company_205,Europe,Retail,SMB,2020-07-01
+206,Company_206,EUROPE,Healthcare,Enterprise,2021-01-19
+207,Company_207,,Retail,SMB,2021-04-18
+208,Company_208,Europe,Retail,Enterprise,2020-01-31
+209,Company_209,Europe,Manufacturing,Mid-Market,2023-07-01
+210,Company_210,north america,Technology,Enterprise,2023-06-05
+211,Company_211,Europe,Technology,Mid-Market,2022-06-13
+212,Company_212,Europe,Retail,SMB,2022-08-17
+213,Company_213,North America,Technology,Enterprise,2024-01-17
+214,Company_214,,Manufacturing,SMB,2023-07-15
+215,Company_215,North America,Manufacturing,SMB,2021-01-09
+216,Company_216,EUROPE,Retail,Enterprise,2020-11-25
+217,Company_217,north america,Retail,Mid-Market,2022-04-18
+218,Company_218,EUROPE,Manufacturing,Enterprise,2020-11-05
+219,Company_219,North America,Healthcare,Enterprise,2022-07-15
+220,company_220,APAC,Healthcare,SMB,2022-09-27
+221,Company_221,APAC,Manufacturing,Mid-Market,2023-03-15
+222,Company_222,Europe,Healthcare,SMB,2021-08-24
+223,Company_223,,Healthcare,SMB,2023-06-30
+224,Company_224,Europe,Healthcare,Mid-Market,2021-09-24
+225,Company_225,APAC,Technology,Mid-Market,2023-01-22
+226,Company_226,,Technology,SMB,2021-08-03
+227,Company_227,North America,Manufacturing,SMB,2021-05-13
+228,Company_228,APAC,Healthcare,SMB,2020-07-01
+229,Company_229,North America,Technology,Mid-Market,2023-04-11
+230,Company_230,north america,Healthcare,SMB,2022-06-14
+231,Company_231,EUROPE,Retail,SMB,2022-07-28
+232,Company_232,north america,Retail,Enterprise,2022-02-06
+233,Company_233,Europe,Healthcare,SMB,2023-02-15
+234,Company_234,north america,Retail,Enterprise,2022-01-10
+235,Company_235,EUROPE,Manufacturing,Mid-Market,2021-01-16
+236,Company_236,Europe,Retail,SMB,2020-08-30
+237,Company_237,north america,Technology,Mid-Market,2020-10-07
+238,Company_238,Europe,Manufacturing,Mid-Market,2023-04-25
+239,Company_239,APAC,Technology,Mid-Market,2020-09-08
+240,company_240,EUROPE,Manufacturing,SMB,2022-08-20
+241,Company_241,north america,Healthcare,SMB,2020-12-23
+242,Company_242,APAC,Retail,SMB,2022-07-25
+243,Company_243,,Healthcare,SMB,2021-10-13
+244,Company_244,North America,Manufacturing,Enterprise,2023-03-12
+245,Company_245,North America,Technology,SMB,2020-12-24
+246,Company_246,North America,Manufacturing,Enterprise,2020-02-04
+247,Company_247,north america,Technology,Mid-Market,2022-04-17
+248,Company_248,APAC,Manufacturing,Mid-Market,2020-12-21
+249,Company_249,,Retail,Mid-Market,2020-01-30
+250,Company_250,Europe,Manufacturing,SMB,2022-12-06
+251,Company_251,APAC,Technology,Enterprise,2023-01-08
+252,Company_252,Europe,Technology,Mid-Market,2023-06-05
+253,Company_253,Europe,Retail,Enterprise,2022-08-30
+254,Company_254,,Technology,SMB,2021-09-08
+255,Company_255,EUROPE,Healthcare,Mid-Market,2020-05-10
+256,Company_256,north america,Manufacturing,Enterprise,2021-03-22
+257,Company_257,Europe,Healthcare,SMB,2021-07-10
+258,Company_258,APAC,Retail,SMB,2020-05-15
+259,Company_259,APAC,Manufacturing,Mid-Market,2022-02-19
+260,company_260,APAC,Retail,Enterprise,2022-10-02
+261,Company_261,,Retail,Mid-Market,2020-01-17
+262,Company_262,North America,Technology,Enterprise,2022-06-30
+263,Company_263,,Retail,Mid-Market,2020-07-19
+264,Company_264,North America,Retail,Enterprise,2022-12-16
+265,Company_265,north america,Retail,Enterprise,2023-12-10
+266,Company_266,north america,Manufacturing,Enterprise,2020-05-07
+267,Company_267,Europe,Healthcare,SMB,2023-04-15
+268,Company_268,EUROPE,Manufacturing,Enterprise,2020-04-15
+269,Company_269,,Technology,Enterprise,2023-07-04
+270,Company_270,North America,Healthcare,SMB,2022-01-01
+271,Company_271,,Healthcare,Enterprise,2020-08-28
+272,Company_272,Europe,Manufacturing,Enterprise,2023-08-21
+273,Company_273,EUROPE,Technology,Mid-Market,2023-05-07
+274,Company_274,north america,Technology,Enterprise,2024-01-12
+275,Company_275,north america,Healthcare,Enterprise,2020-05-27
+276,Company_276,EUROPE,Retail,Mid-Market,2022-06-03
+277,Company_277,EUROPE,Retail,Mid-Market,2021-08-25
+278,Company_278,EUROPE,Retail,Enterprise,2023-06-30
+279,Company_279,north america,Retail,Mid-Market,2020-11-28
+280,company_280,north america,Retail,Enterprise,2020-11-09
+281,Company_281,north america,Retail,SMB,2024-01-26
+282,Company_282,EUROPE,Manufacturing,Enterprise,2020-08-14
+283,Company_283,North America,Healthcare,Enterprise,2022-03-20
+284,Company_284,APAC,Healthcare,Enterprise,2022-11-24
+285,Company_285,Europe,Healthcare,SMB,2022-03-31
+286,Company_286,,Retail,Mid-Market,2022-08-19
+287,Company_287,EUROPE,Retail,SMB,2020-06-24
+288,Company_288,North America,Healthcare,Mid-Market,2022-05-07
+289,Company_289,Europe,Retail,Enterprise,2020-09-27
+290,Company_290,APAC,Healthcare,Mid-Market,2022-07-04
+291,Company_291,North America,Healthcare,Mid-Market,2023-09-26
+292,Company_292,,Manufacturing,SMB,2021-03-15
+293,Company_293,north america,Healthcare,Enterprise,2021-07-12
+294,Company_294,,Retail,Mid-Market,2021-12-31
+295,Company_295,north america,Retail,Enterprise,2021-09-30
+296,Company_296,EUROPE,Technology,Mid-Market,2021-07-13
+297,Company_297,,Manufacturing,SMB,2020-10-30
+298,Company_298,EUROPE,Healthcare,Mid-Market,2020-11-11
+299,Company_299,EUROPE,Retail,Enterprise,2020-08-03
+300,company_300,EUROPE,Technology,Enterprise,2020-03-12
+301,Company_301,,Retail,SMB,2021-02-10
+302,Company_302,Europe,Healthcare,Mid-Market,2023-02-25
+303,Company_303,Europe,Technology,Enterprise,2022-06-06
+304,Company_304,APAC,Manufacturing,SMB,2022-08-22
+305,Company_305,EUROPE,Manufacturing,Enterprise,2020-06-10
+306,Company_306,Europe,Technology,Enterprise,2022-11-14
+307,Company_307,north america,Technology,Enterprise,2023-10-13
+308,Company_308,EUROPE,Technology,SMB,2023-07-05
+309,Company_309,EUROPE,Retail,SMB,2023-04-28
+310,Company_310,north america,Technology,Enterprise,2023-11-26
+311,Company_311,,Retail,Mid-Market,2020-05-19
+312,Company_312,north america,Retail,Mid-Market,2022-07-06
+313,Company_313,North America,Healthcare,Mid-Market,2022-08-27
+314,Company_314,EUROPE,Retail,Mid-Market,2020-09-14
+315,Company_315,north america,Healthcare,SMB,2023-02-05
+316,Company_316,EUROPE,Healthcare,SMB,2023-01-19
+317,Company_317,North America,Technology,Mid-Market,2021-08-12
+318,Company_318,north america,Retail,Enterprise,2021-04-07
+319,Company_319,north america,Retail,SMB,2021-04-08
+320,company_320,,Retail,Mid-Market,2021-09-06
+321,Company_321,APAC,Manufacturing,Mid-Market,2021-06-11
+322,Company_322,EUROPE,Technology,SMB,2022-12-09
+323,Company_323,north america,Technology,Enterprise,2024-01-08
+324,Company_324,,Retail,SMB,2021-02-22
+325,Company_325,,Retail,Mid-Market,2021-05-24
+326,Company_326,,Retail,Enterprise,2021-11-13
+327,Company_327,Europe,Healthcare,SMB,2021-10-28
+328,Company_328,APAC,Technology,Mid-Market,2023-07-13
+329,Company_329,Europe,Retail,SMB,2021-12-17
+330,Company_330,EUROPE,Manufacturing,SMB,2023-02-28
+331,Company_331,EUROPE,Manufacturing,SMB,2023-02-25
+332,Company_332,North America,Healthcare,Mid-Market,2022-07-06
+333,Company_333,north america,Technology,Enterprise,2022-10-25
+334,Company_334,Europe,Manufacturing,Mid-Market,2021-01-11
+335,Company_335,EUROPE,Healthcare,Enterprise,2023-12-15
+336,Company_336,EUROPE,Manufacturing,Enterprise,2024-01-10
+337,Company_337,APAC,Manufacturing,Mid-Market,2021-05-04
+338,Company_338,EUROPE,Healthcare,Mid-Market,2021-04-17
+339,Company_339,,Retail,Enterprise,2023-08-02
+340,company_340,APAC,Healthcare,SMB,2023-11-21
+341,Company_341,EUROPE,Retail,Mid-Market,2021-01-01
+342,Company_342,Europe,Technology,Enterprise,2023-05-26
+343,Company_343,APAC,Manufacturing,SMB,2023-05-14
+344,Company_344,Europe,Healthcare,Mid-Market,2021-08-13
+345,Company_345,north america,Retail,Enterprise,2023-07-28
+346,Company_346,EUROPE,Retail,SMB,2020-11-17
+347,Company_347,North America,Healthcare,Enterprise,2021-01-17
+348,Company_348,APAC,Manufacturing,SMB,2023-11-05
+349,Company_349,North America,Manufacturing,Mid-Market,2022-06-16
+350,Company_350,North America,Manufacturing,Enterprise,2021-04-14
+351,Company_351,North America,Manufacturing,Mid-Market,2023-10-22
+352,Company_352,north america,Technology,SMB,2022-11-06
+353,Company_353,,Technology,Enterprise,2023-08-22
+354,Company_354,EUROPE,Healthcare,Mid-Market,2021-04-30
+355,Company_355,North America,Technology,Mid-Market,2021-07-27
+356,Company_356,north america,Healthcare,Enterprise,2023-12-20
+357,Company_357,APAC,Retail,SMB,2023-09-14
+358,Company_358,EUROPE,Healthcare,Mid-Market,2023-04-20
+359,Company_359,North America,Manufacturing,Mid-Market,2022-09-09
+360,company_360,EUROPE,Retail,Mid-Market,2023-05-02
+361,Company_361,Europe,Healthcare,SMB,2022-01-31
+362,Company_362,APAC,Retail,Mid-Market,2023-08-28
+363,Company_363,Europe,Healthcare,SMB,2021-07-27
+364,Company_364,EUROPE,Healthcare,Mid-Market,2020-11-04
+365,Company_365,EUROPE,Retail,SMB,2022-09-21
+366,Company_366,APAC,Retail,Mid-Market,2020-02-09
+367,Company_367,Europe,Technology,Mid-Market,2021-04-21
+368,Company_368,Europe,Technology,Enterprise,2021-09-07
+369,Company_369,APAC,Retail,Mid-Market,2023-09-19
+370,Company_370,APAC,Healthcare,Mid-Market,2023-10-15
+371,Company_371,EUROPE,Manufacturing,Enterprise,2022-03-21
+372,Company_372,Europe,Healthcare,SMB,2023-05-11
+373,Company_373,Europe,Retail,Mid-Market,2022-10-19
+374,Company_374,North America,Retail,SMB,2022-05-18
+375,Company_375,EUROPE,Manufacturing,Mid-Market,2023-02-13
+376,Company_376,north america,Technology,Mid-Market,2021-04-27
+377,Company_377,Europe,Healthcare,SMB,2023-04-08
+378,Company_378,North America,Retail,SMB,2021-05-22
+379,Company_379,north america,Technology,Mid-Market,2022-03-15
+380,company_380,north america,Healthcare,Mid-Market,2021-06-04
+381,Company_381,north america,Healthcare,Enterprise,2022-08-04
+382,Company_382,north america,Manufacturing,SMB,2020-11-13
+383,Company_383,North America,Retail,Enterprise,2020-11-28
+384,Company_384,North America,Technology,Enterprise,2022-11-26
+385,Company_385,,Healthcare,Mid-Market,2022-10-09
+386,Company_386,,Healthcare,Enterprise,2020-04-06
+387,Company_387,EUROPE,Retail,SMB,2022-05-22
+388,Company_388,APAC,Healthcare,SMB,2020-03-28
+389,Company_389,north america,Technology,Mid-Market,2020-05-22
+390,Company_390,North America,Manufacturing,Mid-Market,2020-09-21
+391,Company_391,north america,Healthcare,SMB,2022-06-25
+392,Company_392,North America,Technology,SMB,2022-01-29
+393,Company_393,Europe,Technology,Mid-Market,2021-08-29
+394,Company_394,,Healthcare,SMB,2020-12-07
+395,Company_395,North America,Manufacturing,Enterprise,2021-02-22
+396,Company_396,north america,Technology,Enterprise,2022-12-21
+397,Company_397,Europe,Manufacturing,SMB,2023-10-05
+398,Company_398,APAC,Manufacturing,Enterprise,2021-10-09
+399,Company_399,EUROPE,Healthcare,SMB,2021-08-19
+400,company_400,north america,Manufacturing,Mid-Market,2023-08-09
+401,Company_401,APAC,Manufacturing,SMB,2023-05-11
+402,Company_402,north america,Manufacturing,Enterprise,2020-08-01
+403,Company_403,Europe,Healthcare,Mid-Market,2020-08-14
+404,Company_404,,Retail,SMB,2021-12-08
+405,Company_405,,Technology,SMB,2022-01-29
+406,Company_406,APAC,Manufacturing,SMB,2023-03-27
+407,Company_407,North America,Technology,Enterprise,2022-05-31
+408,Company_408,EUROPE,Manufacturing,Mid-Market,2021-06-13
+409,Company_409,APAC,Healthcare,SMB,2023-09-06
+410,Company_410,APAC,Technology,Mid-Market,2023-11-11
+411,Company_411,APAC,Manufacturing,Enterprise,2020-07-07
+412,Company_412,,Manufacturing,Enterprise,2021-03-01
+413,Company_413,North America,Retail,SMB,2020-04-12
+414,Company_414,EUROPE,Retail,Enterprise,2022-03-12
+415,Company_415,north america,Manufacturing,SMB,2020-04-10
+416,Company_416,,Manufacturing,Mid-Market,2020-07-20
+417,Company_417,north america,Retail,Mid-Market,2021-09-01
+418,Company_418,EUROPE,Technology,SMB,2021-07-07
+419,Company_419,Europe,Retail,Mid-Market,2021-01-28
+420,company_420,APAC,Technology,SMB,2021-02-21
+421,Company_421,APAC,Healthcare,Enterprise,2020-02-17
+422,Company_422,APAC,Manufacturing,Enterprise,2022-09-10
+423,Company_423,APAC,Retail,SMB,2020-10-11
+424,Company_424,,Retail,Enterprise,2022-10-25
+425,Company_425,APAC,Retail,Enterprise,2021-02-15
+426,Company_426,north america,Technology,Mid-Market,2023-01-30
+427,Company_427,North America,Technology,Enterprise,2022-10-04
+428,Company_428,,Healthcare,Enterprise,2023-12-22
+429,Company_429,Europe,Technology,Enterprise,2022-08-26
+430,Company_430,APAC,Healthcare,Enterprise,2020-03-03
+431,Company_431,,Manufacturing,SMB,2021-10-29
+432,Company_432,,Manufacturing,Enterprise,2023-06-09
+433,Company_433,Europe,Healthcare,SMB,2020-07-27
+434,Company_434,North America,Manufacturing,Mid-Market,2021-07-26
+435,Company_435,APAC,Retail,Enterprise,2020-06-08
+436,Company_436,,Healthcare,Enterprise,2023-07-29
+437,Company_437,North America,Healthcare,Enterprise,2023-05-13
+438,Company_438,APAC,Retail,Enterprise,2023-08-12
+439,Company_439,north america,Healthcare,Enterprise,2022-01-04
+440,company_440,north america,Manufacturing,SMB,2020-10-15
+441,Company_441,North America,Retail,Mid-Market,2020-12-28
+442,Company_442,APAC,Manufacturing,Enterprise,2020-09-08
+443,Company_443,North America,Technology,Mid-Market,2022-11-06
+444,Company_444,Europe,Healthcare,Mid-Market,2021-11-09
+445,Company_445,North America,Technology,Enterprise,2022-01-31
+446,Company_446,APAC,Technology,Enterprise,2022-04-24
+447,Company_447,Europe,Technology,Mid-Market,2023-04-26
+448,Company_448,Europe,Retail,SMB,2022-08-09
+449,Company_449,,Retail,Enterprise,2021-07-23
+450,Company_450,Europe,Technology,SMB,2023-07-31
+451,Company_451,APAC,Manufacturing,Enterprise,2020-02-13
+452,Company_452,,Retail,Enterprise,2022-11-14
+453,Company_453,,Manufacturing,Mid-Market,2023-07-25
+454,Company_454,,Retail,Mid-Market,2022-11-28
+455,Company_455,APAC,Technology,Mid-Market,2020-12-28
+456,Company_456,Europe,Healthcare,Enterprise,2023-04-28
+457,Company_457,APAC,Technology,Mid-Market,2020-09-28
+458,Company_458,APAC,Technology,Mid-Market,2022-12-26
+459,Company_459,EUROPE,Retail,SMB,2022-08-24
+460,company_460,Europe,Healthcare,Enterprise,2023-02-01
+461,Company_461,north america,Manufacturing,Enterprise,2022-05-08
+462,Company_462,APAC,Technology,Enterprise,2020-03-03
+463,Company_463,APAC,Healthcare,SMB,2020-08-11
+464,Company_464,North America,Healthcare,Mid-Market,2020-06-21
+465,Company_465,Europe,Retail,Mid-Market,2023-01-29
+466,Company_466,North America,Technology,Enterprise,2020-05-22
+467,Company_467,,Healthcare,Enterprise,2020-08-15
+468,Company_468,north america,Manufacturing,Enterprise,2022-10-14
+469,Company_469,north america,Technology,Enterprise,2021-10-18
+470,Company_470,EUROPE,Retail,SMB,2020-06-19
+471,Company_471,APAC,Healthcare,SMB,2022-05-04
+472,Company_472,Europe,Healthcare,Mid-Market,2023-01-17
+473,Company_473,Europe,Retail,SMB,2020-06-30
+474,Company_474,North America,Manufacturing,SMB,2021-02-05
+475,Company_475,APAC,Healthcare,SMB,2020-01-24
+476,Company_476,,Technology,Mid-Market,2024-01-14
+477,Company_477,North America,Retail,SMB,2023-12-13
+478,Company_478,APAC,Healthcare,Enterprise,2023-07-14
+479,Company_479,Europe,Manufacturing,Enterprise,2022-03-19
+480,company_480,APAC,Technology,Mid-Market,2022-08-27
+481,Company_481,,Technology,SMB,2021-01-11
+482,Company_482,APAC,Manufacturing,Enterprise,2023-11-04
+483,Company_483,North America,Manufacturing,Mid-Market,2021-03-25
+484,Company_484,,Technology,Enterprise,2021-03-13
+485,Company_485,EUROPE,Retail,SMB,2023-11-18
+486,Company_486,Europe,Healthcare,Enterprise,2021-11-18
+487,Company_487,north america,Technology,SMB,2024-02-02
+488,Company_488,north america,Healthcare,Enterprise,2022-08-08
+489,Company_489,Europe,Technology,SMB,2022-01-01
+490,Company_490,North America,Healthcare,Enterprise,2022-03-27
+491,Company_491,,Retail,SMB,2022-06-25
+492,Company_492,,Retail,Enterprise,2021-03-27
+493,Company_493,APAC,Retail,Enterprise,2022-01-31
+494,Company_494,Europe,Retail,Mid-Market,2021-11-27
+495,Company_495,North America,Retail,Enterprise,2022-05-18
+496,Company_496,north america,Retail,Mid-Market,2022-02-14
+497,Company_497,EUROPE,Technology,Mid-Market,2021-08-04
+498,Company_498,Europe,Manufacturing,Enterprise,2021-05-03
+499,Company_499,north america,Technology,Mid-Market,2023-03-02
+500,company_500,EUROPE,Retail,Enterprise,2022-05-10
+362,Company_362,APAC,Retail,Mid-Market,2023-08-28
+74,Company_74,north america,Manufacturing,SMB,2023-04-17
+375,Company_375,EUROPE,Manufacturing,Mid-Market,2023-02-13
+156,Company_156,North America,Manufacturing,SMB,2023-04-04
+105,Company_105,North America,Retail,Mid-Market,2022-05-16
+395,Company_395,North America,Manufacturing,Enterprise,2021-02-22
+378,Company_378,North America,Retail,SMB,2021-05-22
+125,Company_125,APAC,Technology,Enterprise,2021-11-29
+69,Company_69,North America,Manufacturing,Mid-Market,2022-11-14
+451,Company_451,APAC,Manufacturing,Enterprise,2020-02-13
+10,Company_10,EUROPE,Manufacturing,SMB,2021-01-10
+195,Company_195,EUROPE,Manufacturing,Mid-Market,2022-04-12
+407,Company_407,North America,Technology,Enterprise,2022-05-31
+85,Company_85,,Retail,Mid-Market,2022-05-08
+372,Company_372,Europe,Healthcare,SMB,2023-05-11
+389,Company_389,north america,Technology,Mid-Market,2020-05-22
+496,Company_496,north america,Retail,Mid-Market,2022-02-14
+31,Company_31,,Retail,SMB,2023-10-29
+317,Company_317,North America,Technology,Mid-Market,2021-08-12
+409,Company_409,APAC,Healthcare,SMB,2023-09-06
